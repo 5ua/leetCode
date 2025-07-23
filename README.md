@@ -4,7 +4,7 @@
 
 ## 📊 Progress Overview
 - **Total Problems Solved**: 13
-- **Easy**: 13/XXX
+- **Easy**: 22/XXX
 - **Medium**: X/XXX  
 - **Hard**: X/XXX
 - **Languages**: Python
