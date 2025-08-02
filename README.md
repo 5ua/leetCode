@@ -3,9 +3,9 @@
 > 🎯 **Goal**: Consistent practice and improvement in data structures & algorithms
 
 ## 📊 Progress Overview
-- **Total Problems Solved**: 30
+- **Total Problems Solved**: 32
 - **Easy**: 29/XXX
-- **Medium**: 1/XXX  
+- **Medium**: 3/XXX  
 - **Hard**: X/XXX
 - **Languages**: Python
 
