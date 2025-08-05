@@ -5,7 +5,7 @@
 ## 📊 Progress Overview
 - **Total Problems Solved**: 32
 - **Easy**: 29/XXX
-- **Medium**: 3/XXX  
+- **Medium**: 4/XXX  
 - **Hard**: X/XXX
 - **Languages**: Python
 
