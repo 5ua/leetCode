@@ -3,10 +3,10 @@
 > 🎯 **Goal**: Consistent practice and improvement in data structures & algorithms
 
 ## 📊 Progress Overview
-- **Total Problems Solved**: 59
+- **Total Problems Solved**: 60
 - **Easy**: 29/XXX
 - **Medium**: 29/XXX  
-- **Hard**: 1/XXX
+- **Hard**: 2/XXX
 - **Languages**: Python
 
 ## 🗂️ Repository Structure
